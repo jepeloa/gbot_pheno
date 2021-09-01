@@ -47,7 +47,7 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 
 - 4x individual steering
 
--
+- Power On with one button (previous version have multiple swichs to start the system in specific sequence)
 
 
 
