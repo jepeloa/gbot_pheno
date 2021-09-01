@@ -61,10 +61,17 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 
 - The quality of the images must be enougth to detect grains and pods using IA models.
 
+# Block diagram
+
 ![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/Schematic_gbot_v3.drawio.png)
 
 
+# Wiring
 
+
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/wires_AC1.png)
+
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/wires_AC2.png)
 
 
 
