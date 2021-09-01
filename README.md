@@ -32,6 +32,7 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 the specification are:
 
 -2 meter of width (variable in function of the size of the arc)
+
 -Modular, we can dissamsemble in easy way to transport
 
 
