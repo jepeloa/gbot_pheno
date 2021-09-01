@@ -29,9 +29,11 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 
 ![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/stages_soybean.jpg)
 
+The cameras of the robot must be capable to record videos into the rows, in a side view of the plants. With this position we can measure the entire plant.
+
 ![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/soybean_pods.jpg)
 
-# Specification
+# Platform Specification
 
 - Adaptable width (variable in function of the size of the arc and the rows)
 
