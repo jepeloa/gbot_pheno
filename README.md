@@ -47,5 +47,7 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 
 -4x individual steering
 
+-
+
 
 
