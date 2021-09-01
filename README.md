@@ -53,10 +53,17 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 
 # image specification
 
-- The camera must be take the entire plant from a distance bellow of 30 cm (the max distance from the lens of the camera to the plant)
-- It's mandatory that the camera can be customizable, to change the exposition value to avoid the bhlur on the image
-- When the exposition are reduced to avoid the blhur, is necessary increase the ligth using led reflector light
-- 
+- The camera must be take the entire plant from a distance bellow of 30 cm (the max distance from the lens of the camera to the plant).
+
+- It's mandatory that the camera can be customizable, to change the exposition value to avoid the bhlur on the image.
+
+- When the exposition are reduced to avoid the blhur, is necessary increase the ligth using led reflector light.
+
+- The quality of the images must be enougth to detect grains and pods using IA models.
+
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/Schematic_gbot_v3.drawio.png)
+
+
 
 
 
