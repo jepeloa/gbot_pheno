@@ -18,7 +18,7 @@ The soybean (Glycine max (L.) Merr.) is an erect leguminous plant, up to 1 m hig
 
 The rows in the soybeans fields are planted about 52 cm between plants, the heigth of the crop is about 1.3 m. The plant at R8 stage are dry with brow color, and without leafs.
 
-![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/soybean_stages.jpg)
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/stages_soybean.jpg)
 
 
 
