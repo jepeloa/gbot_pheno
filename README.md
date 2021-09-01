@@ -29,6 +29,8 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 
 ![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/stages_soybean.jpg)
 
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/soybean_pods.jpg)
+
 # Specification
 
 -Adaptable width (variable in function of the size of the arc and the rows)
