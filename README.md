@@ -51,5 +51,13 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 
 - Power On with one button (previous version have multiple swichs to start the system in specific sequence)
 
+# image specification
+
+- The camera must be take the entire plant from a distance bellow of 30 cm (the max distance from the lens of the camera to the plant)
+- It's mandatory that the camera can be customizable, to change the exposition value to avoid the bhlur on the image
+- When the exposition are reduced to avoid the blhur, is necessary increase the ligth using led reflector light
+- 
+
+
 
 
