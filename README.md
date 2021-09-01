@@ -1,4 +1,4 @@
-# gbot_pheno
+# Gbot-pheno
 
 Complete documentation of the robotic platform for phenotyping soybean crops GBOT-PHENO
 
