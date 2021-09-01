@@ -31,8 +31,19 @@ The rows in the soybeans fields are planted about 52 cm between plants, the heig
 
 the specification are:
 
--2 meter of width (variable in function of the size of the arc)
+-Adaptable width (variable in function of the size of the arc and the rows)
+
+-Adaptable heigth dimensions (variable in function of the size of the arc)
 
 -Modular, we can dissamsemble in easy way to transport
+
+-Weigth of the individuals modules <50kg
+
+-Robust and water proof (for rain, not for working under rain)
+
+-4x4 with traction control
+
+-4x individual steering
+
 
 
