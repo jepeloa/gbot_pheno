@@ -12,7 +12,7 @@ The platform are fully ROS (Robot Operating System) compatible, we used e-bike w
 
 # Desing challenges
 
-The soybeans crops are plants with about 1.3 meters of height. 
+The rows in the soybeans fields are planted about 52 cm between plants, the heigth of the crop is about 1.3 m. The plant at R8 stage are dry with brow color, and without leafs.
 
 ![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/brainpower_controller.png)
 
