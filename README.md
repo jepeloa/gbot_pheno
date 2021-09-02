@@ -18,7 +18,7 @@ The soybean (Glycine max (L.) Merr.) is an erect leguminous plant, up to 1 m hig
 
 
 
-![CAD-STL](https://github.com/jepeloa/gbot_pheno/blob/main/soybean.jpg)
+![alt_text](https://github.com/jepeloa/gbot_pheno/blob/main/soybean.jpg)
 
 
 
@@ -51,8 +51,6 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 
 - Power On with one button (previous version have multiple swichs to start the system in specific sequence)
 
-![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/gbot.stl)
-
 
 # image specification
 
@@ -63,6 +61,12 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 - When the exposition are reduced to avoid the blhur, is necessary increase the ligth using led reflector light.
 
 - The quality of the images must be enougth to detect grains and pods using IA models.
+
+# CAD desing
+
+
+![CAD](https://github.com/jepeloa/gbot_pheno/blob/main/gbot.stl)
+
 
 # Block diagram
 
