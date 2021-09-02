@@ -18,7 +18,7 @@ The soybean (Glycine max (L.) Merr.) is an erect leguminous plant, up to 1 m hig
 
 
 
-![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/soybean.jpg)
+![CAD-STL](https://github.com/jepeloa/gbot_pheno/blob/main/soybean.jpg)
 
 
 
