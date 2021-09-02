@@ -51,6 +51,9 @@ The cameras of the robot must be capable to record videos into the rows, in a si
 
 - Power On with one button (previous version have multiple swichs to start the system in specific sequence)
 
+![alt text](https://github.com/jepeloa/gbot_pheno/blob/main/gbot.stl)
+
+
 # image specification
 
 - The camera must be take the entire plant from a distance bellow of 30 cm (the max distance from the lens of the camera to the plant).
